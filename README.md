@@ -3,14 +3,14 @@
 Heroes of Pymoli
 Task:
 Generate a report that breaks down the game's purchasing data into meaningful insights including and provide observed trends:
-Player Count
-Purchasing Analysis (Total)
-Gender Demographics
-Purchasing Analysis (Gender)
-Age Demographics
-Top Spenders
-Most Popular Items
-Most Profitable Items
+Player Count, 
+Purchasing Analysis (Total), 
+Gender Demographics, 
+Purchasing Analysis (Gender), 
+Age Demographics, 
+Top Spenders, 
+Most Popular Items, 
+Most Profitable Items, 
 
 Observed trend analysis:
 1. The majority of players ranged in ages from 18 – 29, 76.74% of the sample and were 76.47% of total spend. Most age brackets spent at or below the average price of $3.05 with only the 35 – 39 and <10 age brackets spending more than the average.  
