@@ -1,6 +1,6 @@
 # Heros of Pymoli Research Project
 ## Task:
-Generate a report that breaks down the game's purchasing data into meaningful insights including and provide observed trends:
+Using the supplied CSV, import and manipulate the data with the end focus of generating a report that breaks down the game's purchasing data to be able to provide meaningful analysis and insights including and provide observed trends:
 Player Count
 Purchasing Analysis (Total) 
 Gender Demographics
